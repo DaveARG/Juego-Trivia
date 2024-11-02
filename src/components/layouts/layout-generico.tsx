@@ -1,4 +1,5 @@
 import { Outlet } from 'react-router-dom'
+import 'styles/background-lines.css'
 
 export default function LayoutGenerico() {
     return (
