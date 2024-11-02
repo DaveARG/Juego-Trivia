@@ -1,0 +1,257 @@
+[
+    {
+        "pregunta": "¿Cuál es el propósito principal de React?",
+        "opciones": [
+            "Crear APIs",
+            "Crear interfaces de usuario",
+            "Administrar bases de datos",
+            "Diseñar gráficos 3D"
+        ],
+        "respuesta_correcta": "Crear interfaces de usuario"
+    },
+    {
+        "pregunta": "¿Qué comando se usa para crear una nueva aplicación en React?",
+        "opciones": [
+            "react-create-app",
+            "npm start",
+            "create-react-app",
+            "react-app-init"
+        ],
+        "respuesta_correcta": "create-react-app"
+    },
+    {
+        "pregunta": "¿Cómo se llama a una función de React que devuelve un componente?",
+        "opciones": ["Elemento", "Props", "Hook", "Componente de función"],
+        "respuesta_correcta": "Componente de función"
+    },
+    {
+        "pregunta": "¿En qué lenguaje se escriben los componentes de React?",
+        "opciones": ["HTML", "Python", "JavaScript", "CSS"],
+        "respuesta_correcta": "JavaScript"
+    },
+    {
+        "pregunta": "¿Qué propiedad se usa para pasar datos a un componente en React?",
+        "opciones": ["data", "props", "key", "state"],
+        "respuesta_correcta": "props"
+    },
+    {
+        "pregunta": "¿Cómo se define el estado en un componente funcional?",
+        "opciones": ["useStatus", "useData", "useState", "useProp"],
+        "respuesta_correcta": "useState"
+    },
+    {
+        "pregunta": "¿Qué hace el Hook useEffect?",
+        "opciones": [
+            "Maneja eventos",
+            "Permite efectos secundarios",
+            "Modifica el estado",
+            "Agrega estilos"
+        ],
+        "respuesta_correcta": "Permite efectos secundarios"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre de la función para actualizar el estado en useState?",
+        "opciones": ["setState", "update", "set", "refresh"],
+        "respuesta_correcta": "setState"
+    },
+    {
+        "pregunta": "¿Qué es JSX?",
+        "opciones": [
+            "Un método de renderizado",
+            "Una función de React",
+            "Una sintaxis para escribir HTML en JavaScript",
+            "Una API de backend"
+        ],
+        "respuesta_correcta": "Una sintaxis para escribir HTML en JavaScript"
+    },
+    {
+        "pregunta": "¿Para qué se usa el atributo key en listas de React?",
+        "opciones": [
+            "Para definir el valor del elemento",
+            "Para hacer la lista estática",
+            "Para identificar de forma única los elementos",
+            "Para crear estilos personalizados"
+        ],
+        "respuesta_correcta": "Para identificar de forma única los elementos"
+    },
+    {
+        "pregunta": "¿Cuál es la función principal de React Router?",
+        "opciones": [
+            "Estilos CSS",
+            "Manejo de bases de datos",
+            "Navegación entre vistas",
+            "Animaciones"
+        ],
+        "respuesta_correcta": "Navegación entre vistas"
+    },
+    {
+        "pregunta": "¿Cuál es el tipo de componente que se actualiza sin recargar la página?",
+        "opciones": [
+            "Hook",
+            "Class component",
+            "Componente de función",
+            "Evento"
+        ],
+        "respuesta_correcta": "Componente de función"
+    },
+    {
+        "pregunta": "¿Qué herramienta permite administrar el estado global de una app en React?",
+        "opciones": ["React Context", "useState", "Props", "JSX"],
+        "respuesta_correcta": "React Context"
+    },
+    {
+        "pregunta": "¿Qué hook se usa para obtener datos asíncronos en React?",
+        "opciones": ["useFetch", "useAsync", "useEffect", "useData"],
+        "respuesta_correcta": "useEffect"
+    },
+    {
+        "pregunta": "¿Cómo se pasa una función a un componente hijo en React?",
+        "opciones": ["Con props", "Con state", "Con class", "Con render"],
+        "respuesta_correcta": "Con props"
+    },
+    {
+        "pregunta": "¿Qué herramienta de Facebook creó React?",
+        "opciones": ["Instagram", "Facebook", "Messenger", "WhatsApp"],
+        "respuesta_correcta": "Facebook"
+    },
+    {
+        "pregunta": "¿Cuál es el Hook para manejar formularios controlados en React?",
+        "opciones": ["useForms", "useForm", "useInput", "onChange"],
+        "respuesta_correcta": "useForm"
+    },
+    {
+        "pregunta": "¿Qué hace el método map() en una lista en React?",
+        "opciones": [
+            "Filtra elementos",
+            "Agrega estilos",
+            "Itera y devuelve una nueva lista",
+            "Modifica el DOM directamente"
+        ],
+        "respuesta_correcta": "Itera y devuelve una nueva lista"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del Context API?",
+        "opciones": [
+            "Usar hooks",
+            "Manejar estilos",
+            "Compartir estado globalmente",
+            "Crear componentes"
+        ],
+        "respuesta_correcta": "Compartir estado globalmente"
+    },
+    {
+        "pregunta": "¿Qué es un Portal en React?",
+        "opciones": [
+            "Un servidor",
+            "Una herramienta de depuración",
+            "Un método para renderizar en un nodo externo",
+            "Una biblioteca de navegación"
+        ],
+        "respuesta_correcta": "Un método para renderizar en un nodo externo"
+    },
+    {
+        "pregunta": "¿Qué archivo es el punto de entrada en una app de React?",
+        "opciones": ["index.html", "App.js", "index.js", "server.js"],
+        "respuesta_correcta": "index.js"
+    },
+    {
+        "pregunta": "¿Para qué se usa el Hook useRef?",
+        "opciones": [
+            "Modificar el DOM",
+            "Crear componentes",
+            "Manejar el estado",
+            "Crear variables persistentes"
+        ],
+        "respuesta_correcta": "Crear variables persistentes"
+    },
+    {
+        "pregunta": "¿Qué es un Higher Order Component (HOC)?",
+        "opciones": [
+            "Un componente que retorna otro componente",
+            "Un hook avanzado",
+            "Una propiedad de state",
+            "Un método de ciclo de vida"
+        ],
+        "respuesta_correcta": "Un componente que retorna otro componente"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del método setState?",
+        "opciones": [
+            "Crear un componente",
+            "Modificar el DOM",
+            "Actualizar el estado",
+            "Renderizar el JSX"
+        ],
+        "respuesta_correcta": "Actualizar el estado"
+    },
+    {
+        "pregunta": "¿Qué Hook reemplaza el ciclo de vida componentDidMount?",
+        "opciones": ["useEffect", "useMount", "useState", "useLayoutEffect"],
+        "respuesta_correcta": "useEffect"
+    },
+    {
+        "pregunta": "¿Qué técnica permite estilos en línea para JSX?",
+        "opciones": ["CSS Modules", "CSS in JS", "Global CSS", "SASS"],
+        "respuesta_correcta": "CSS in JS"
+    },
+    {
+        "pregunta": "¿Cuál es el método para crear un contexto en React?",
+        "opciones": [
+            "React.createContext",
+            "useContext",
+            "setContext",
+            "withContext"
+        ],
+        "respuesta_correcta": "React.createContext"
+    },
+    {
+        "pregunta": "¿Qué función envuelve una aplicación para aplicar Context?",
+        "opciones": ["ContextProvider", "AppContext", "Provider", "Wrapper"],
+        "respuesta_correcta": "Provider"
+    },
+    {
+        "pregunta": "¿Qué es una SPA?",
+        "opciones": [
+            "Sistema de Procesamiento Angular",
+            "Aplicación de Página Única",
+            "Servidor Privado Asíncrono",
+            "Aplicación Social Privada"
+        ],
+        "respuesta_correcta": "Aplicación de Página Única"
+    },
+    {
+        "pregunta": "¿Qué atributo es necesario en una lista generada por .map?",
+        "opciones": ["data", "key", "id", "name"],
+        "respuesta_correcta": "key"
+    },
+    {
+        "pregunta": "¿Qué devuelve el método render() en un componente de clase?",
+        "opciones": ["HTML", "JSX", "Un componente", "CSS"],
+        "respuesta_correcta": "JSX"
+    },
+    {
+        "pregunta": "¿Cómo se importan otros módulos en React?",
+        "opciones": ["import", "require", "include", "fetch"],
+        "respuesta_correcta": "import"
+    },
+    {
+        "pregunta": "¿Cómo se llama a los métodos para manejar eventos?",
+        "opciones": ["Callbacks", "Handlers", "Listeners", "Triggers"],
+        "respuesta_correcta": "Handlers"
+    },
+    {
+        "pregunta": "¿Para qué sirve el método preventDefault()?",
+        "opciones": [
+            "Evitar recarga de página",
+            "Crear un evento",
+            "Llamar una función",
+            "Establecer props"
+        ],
+        "respuesta_correcta": "Evitar recarga de página"
+    },
+    {
+        "pregunta": "¿Qué función se usa para aplicar CSS en línea?",
+        "opciones": ["className", "style", "css", "applyCSS"],
+        "respuesta_correcta": "style"
+    }
+]
