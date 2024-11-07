@@ -1,7 +1,7 @@
-type savePlayerProps = {
+type validatePlayerProps = {
     name: string
 }
-export default function savePlayer({ name }: savePlayerProps) {
-    if (!name) return false
+export default function validatePlayer({ name }: validatePlayerProps) {
+    if (!name || !name.trim()) return false
     return true
 }
